@@ -1,0 +1,24 @@
+.login{
+    width: 80%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    background-color: white;
+    padding: 10px 20px; 
+}
+
+.login h1{
+    text-align: center;
+    margin-bottom: 50px !important;
+}
+
+.login input{
+    margin-bottom: 10px;
+}
+
+.login img{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
