@@ -1,3 +1,8 @@
+#GLPI CRUD
+Página simples para consumo de API do GLPI. Esse projeto fornece o login do usuário e um crud das chamadas (ticket).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
